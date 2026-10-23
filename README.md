@@ -1,10 +1,10 @@
 Book Market Analytics – Books to Scrape
 
-## 1. Project Overview
-This project was completed for the Data Science 500 module. It analyses book data collected from the Books to Scrape website.
-The project uses Python to collect, clean, explore and analyse book information. It also uses data visualisation and linear regression to investigate book prices, ratings and genres.
+## 1. Assignment Overview
+This assignment was formed to analyse book data collected from the Books to Scrape website.
+The assigment uses Python to collect, clean, explore and analyse book information. It also uses data visualisation and linear regression to investigate book prices, ratings and genres.
 
-## 2. Project Objectives
+## 2. Assignment Objectives
 - Collect at least 200 book records using web scraping.
 - Extract book titles, prices, ratings, stock availability and genres.
 - Clean and prepare the collected data for analysis.
@@ -21,7 +21,7 @@ The project uses Python to collect, clean, explore and analyse book information.
 - scikit-learn
 - Jupyter Notebook
 
-## 4. Project Files
+## 4. Assignment Files
 - `scrape_books.py` – collects book information from the website.
 - `cleaning_book_data.py` – cleans and prepares the collected data.
 - `book_analysis.py` – performs exploratory analysis, generates charts and evaluates the regression model.
@@ -33,7 +33,7 @@ The project uses Python to collect, clean, explore and analyse book information.
 - `regression_metrics.csv` – contains the regression evaluation results.
 - `books_price_predictions.csv` – contains model predictions.
 
-## 5. How to Run the Project
+## 5. How to Run the Assignment
 1. Install Python and the required libraries.
 2. Open the project folder in Visual Studio Code or another Python development environment.
 3. Install the required packages using:
